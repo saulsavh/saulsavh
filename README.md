@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C/C++, Python, html/css
+- 🌱 I’m currently learning C/C++, Python
 
 <!--
 **saulsavh/saulsavh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
